@@ -1,2 +1,2 @@
 # Sports
-Front-End using HTML CSS JS and Bootstrap
+Front-End using HTML CSS JS and Bootstrap.
